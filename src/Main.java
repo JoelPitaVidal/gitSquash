@@ -13,5 +13,7 @@ public class Main {
         }
 
         System.out.println("Funcion 1");
+
+        System.out.println("Funcion 2");
     }
 }
